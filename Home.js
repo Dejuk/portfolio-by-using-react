@@ -10,7 +10,7 @@ const Home = () => {
          Dejen Ketema
         </h1>
         <p className="text-4xl sm:text-7xl font-bold text-[#892b0]">
-          i'm full stack developer for a long time 
+          i'm full stack developer for a long time   
         </p>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           i'm a full-stack developer specializing in buidling (and occasionally
