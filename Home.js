@@ -15,7 +15,7 @@ const Home = () => {
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           i'm a full-stack developer specializing in buidling (and occasionally
           designing) exceptional digital expriences.currently,i'm focused on
-          building responsive full-stack web applications by using MERN stack
+          building responsive full-stack web applications by using MERN stack(react js,mongodb,express js,next js
         </p>
         <div>
           <button className="text-white border group rounded-md border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 border-pink-600 ">
