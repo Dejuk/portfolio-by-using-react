@@ -7,7 +7,7 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full text-gray-300 ">
         <p className="text-pink-600">hi,my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
-         Dejen Ketema(dejuk
+         Dejen Ketema(dejuk)
         </h1>
         <p className="text-4xl sm:text-7xl font-bold text-[#892b0]">
           i'm full stack developer for a long time   
