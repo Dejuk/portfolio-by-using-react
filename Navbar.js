@@ -9,6 +9,7 @@ function Navbar() {
    function handleNav() {
     setshow(!show);
   };
+  
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-black text-gray-300  ">
       <div>
